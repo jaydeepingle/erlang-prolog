@@ -1,0 +1,21 @@
+Name:		Jaydeep Digambar Ingle
+B-Number:	B00671052
+Email:		jingle1@binghamton.edu
+
+----------------------------------------------
+1. roots1 - completed
+    simply calculates the roots of the equation.
+2. roots2 - completed
+    Server
+    Client
+    Loop
+3. horner1 - completed
+    Anonymous function has been used.
+4. horner2 - completed
+    It spawns the number of process which is equal to number of coefficients
+    given in the list. 
+    One process passes the result to the next process. Last process sends the
+    result back to the client. Client returns the final result.
+    Step by step the result is being printed from the respective processes.
+
+----------------------------------------------
